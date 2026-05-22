@@ -1,0 +1,6 @@
+@CrediAgro.Api_HostAddress = http://localhost:5229
+
+GET {{CrediAgro.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

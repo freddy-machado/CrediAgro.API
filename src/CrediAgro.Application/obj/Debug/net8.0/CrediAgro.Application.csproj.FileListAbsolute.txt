@@ -1,0 +1,15 @@
+D:\PERSONAL\Desarrollo\CREDIAGRO\CREDIAGROWEB\CREDIAGROWEB\API\src\CrediAgro.Application\bin\Debug\net8.0\CrediAgro.Application.deps.json
+D:\PERSONAL\Desarrollo\CREDIAGRO\CREDIAGROWEB\CREDIAGROWEB\API\src\CrediAgro.Application\bin\Debug\net8.0\CrediAgro.Application.dll
+D:\PERSONAL\Desarrollo\CREDIAGRO\CREDIAGROWEB\CREDIAGROWEB\API\src\CrediAgro.Application\bin\Debug\net8.0\CrediAgro.Application.pdb
+D:\PERSONAL\Desarrollo\CREDIAGRO\CREDIAGROWEB\CREDIAGROWEB\API\src\CrediAgro.Application\bin\Debug\net8.0\CrediAgro.Contracts.dll
+D:\PERSONAL\Desarrollo\CREDIAGRO\CREDIAGROWEB\CREDIAGROWEB\API\src\CrediAgro.Application\bin\Debug\net8.0\CrediAgro.Contracts.pdb
+D:\PERSONAL\Desarrollo\CREDIAGRO\CREDIAGROWEB\CREDIAGROWEB\API\src\CrediAgro.Application\obj\Debug\net8.0\CrediAgro.Application.csproj.AssemblyReference.cache
+D:\PERSONAL\Desarrollo\CREDIAGRO\CREDIAGROWEB\CREDIAGROWEB\API\src\CrediAgro.Application\obj\Debug\net8.0\CrediAgro.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\PERSONAL\Desarrollo\CREDIAGRO\CREDIAGROWEB\CREDIAGROWEB\API\src\CrediAgro.Application\obj\Debug\net8.0\CrediAgro.Application.AssemblyInfoInputs.cache
+D:\PERSONAL\Desarrollo\CREDIAGRO\CREDIAGROWEB\CREDIAGROWEB\API\src\CrediAgro.Application\obj\Debug\net8.0\CrediAgro.Application.AssemblyInfo.cs
+D:\PERSONAL\Desarrollo\CREDIAGRO\CREDIAGROWEB\CREDIAGROWEB\API\src\CrediAgro.Application\obj\Debug\net8.0\CrediAgro.Application.csproj.CoreCompileInputs.cache
+D:\PERSONAL\Desarrollo\CREDIAGRO\CREDIAGROWEB\CREDIAGROWEB\API\src\CrediAgro.Application\obj\Debug\net8.0\CrediAgr.122F9DAE.Up2Date
+D:\PERSONAL\Desarrollo\CREDIAGRO\CREDIAGROWEB\CREDIAGROWEB\API\src\CrediAgro.Application\obj\Debug\net8.0\CrediAgro.Application.dll
+D:\PERSONAL\Desarrollo\CREDIAGRO\CREDIAGROWEB\CREDIAGROWEB\API\src\CrediAgro.Application\obj\Debug\net8.0\refint\CrediAgro.Application.dll
+D:\PERSONAL\Desarrollo\CREDIAGRO\CREDIAGROWEB\CREDIAGROWEB\API\src\CrediAgro.Application\obj\Debug\net8.0\CrediAgro.Application.pdb
+D:\PERSONAL\Desarrollo\CREDIAGRO\CREDIAGROWEB\CREDIAGROWEB\API\src\CrediAgro.Application\obj\Debug\net8.0\ref\CrediAgro.Application.dll

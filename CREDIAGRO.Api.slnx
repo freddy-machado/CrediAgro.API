@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CrediAgro.Api/CrediAgro.Api.csproj" />
+    <Project Path="src/CrediAgro.Application/CrediAgro.Application.csproj" />
+    <Project Path="src/CrediAgro.Infrastructure/CrediAgro.Infrastructure.csproj" />
+  </Folder>
+  <Project Path="../shared/CrediAgro.Contracts/CrediAgro.Contracts.csproj" />
+</Solution>

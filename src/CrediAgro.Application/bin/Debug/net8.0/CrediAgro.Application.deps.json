@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CrediAgro.Application/1.0.0": {
+        "dependencies": {
+          "CrediAgro.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "CrediAgro.Application.dll": {}
+        }
+      },
+      "CrediAgro.Contracts/1.0.0": {
+        "runtime": {
+          "CrediAgro.Contracts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CrediAgro.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CrediAgro.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
