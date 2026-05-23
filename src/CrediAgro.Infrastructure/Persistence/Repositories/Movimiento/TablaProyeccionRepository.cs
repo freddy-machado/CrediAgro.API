@@ -8,9 +8,6 @@ public class TablaProyeccionRepository : Repository<ScrTablaproyeccionPago>, ITa
 {
     public TablaProyeccionRepository(SCreditoCmDbContext context) : base(context) { }
 
-    public Task<IEnumerable<TablaPagosEntity>> CrearTablaProyeccionPagosAsync(int creditoId, string usuario) =>
-        throw new NotImplementedException("La generación de tabla de proyección requiere lógica de negocio especializada.");
-
     public async Task<IEnumerable<TablaPagosEntity>> ObtenerTablaPorCreditoIdAsync(int creditoId) =>
         await (from tp in _context.ScrTablaproyeccionPagos.AsNoTracking()
                where tp.nScrSolicitudID == creditoId

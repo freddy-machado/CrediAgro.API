@@ -1589,31 +1589,17 @@
       "CrediAgro.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "CrediAgro.Contracts": "1.0.0"
-        },
         "compile": {
           "bin/placeholder/CrediAgro.Application.dll": {}
         },
         "runtime": {
           "bin/placeholder/CrediAgro.Application.dll": {}
-        }
-      },
-      "CrediAgro.Contracts/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/CrediAgro.Contracts.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CrediAgro.Contracts.dll": {}
         }
       },
       "CrediAgro.Infrastructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "CrediAgro.Contracts": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.27"
         },
         "compile": {
@@ -4464,11 +4450,6 @@
       "path": "../CrediAgro.Application/CrediAgro.Application.csproj",
       "msbuildProject": "../CrediAgro.Application/CrediAgro.Application.csproj"
     },
-    "CrediAgro.Contracts/1.0.0": {
-      "type": "project",
-      "path": "../../../shared/CrediAgro.Contracts/CrediAgro.Contracts.csproj",
-      "msbuildProject": "../../../shared/CrediAgro.Contracts/CrediAgro.Contracts.csproj"
-    },
     "CrediAgro.Infrastructure/1.0.0": {
       "type": "project",
       "path": "../CrediAgro.Infrastructure/CrediAgro.Infrastructure.csproj",
@@ -4478,7 +4459,6 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "CrediAgro.Application >= 1.0.0",
-      "CrediAgro.Contracts >= 1.0.0",
       "CrediAgro.Infrastructure >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 8.0.26",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.27",
@@ -4486,35 +4466,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\freddy.machado.HEMCONIC\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/tmp/codeql-scratch-7a40c96a5a29eec3/dbs/csharp/working/packages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Api\\CrediAgro.Api.csproj",
+      "projectUniqueName": "/home/runner/work/CrediAgro.API/CrediAgro.API/src/CrediAgro.Api/CrediAgro.Api.csproj",
       "projectName": "CrediAgro.Api",
-      "projectPath": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Api\\CrediAgro.Api.csproj",
-      "packagesPath": "C:\\Users\\freddy.machado.HEMCONIC\\.nuget\\packages\\",
-      "outputPath": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Api\\obj\\",
+      "projectPath": "/home/runner/work/CrediAgro.API/CrediAgro.API/src/CrediAgro.Api/CrediAgro.Api.csproj",
+      "packagesPath": "/tmp/codeql-scratch-7a40c96a5a29eec3/dbs/csharp/working/packages",
+      "outputPath": "/home/runner/work/CrediAgro.API/CrediAgro.API/src/CrediAgro.Api/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\freddy.machado.HEMCONIC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/runner/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
-        "C:\\Users\\Public\\Documents\\Infragistics\\NuGet\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4522,14 +4491,11 @@
           "framework": "net8.0",
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Application\\CrediAgro.Application.csproj": {
-              "projectPath": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Application\\CrediAgro.Application.csproj"
+            "/home/runner/work/CrediAgro.API/CrediAgro.API/src/CrediAgro.Application/CrediAgro.Application.csproj": {
+              "projectPath": "/home/runner/work/CrediAgro.API/CrediAgro.API/src/CrediAgro.Application/CrediAgro.Application.csproj"
             },
-            "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj": {
-              "projectPath": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj"
-            },
-            "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\shared\\CrediAgro.Contracts\\CrediAgro.Contracts.csproj": {
-              "projectPath": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\shared\\CrediAgro.Contracts\\CrediAgro.Contracts.csproj"
+            "/home/runner/work/CrediAgro.API/CrediAgro.API/src/CrediAgro.Infrastructure/CrediAgro.Infrastructure.csproj": {
+              "projectPath": "/home/runner/work/CrediAgro.API/CrediAgro.API/src/CrediAgro.Infrastructure/CrediAgro.Infrastructure.csproj"
             }
           }
         }
@@ -4577,6 +4543,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.27, 8.0.27]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[8.0.27, 8.0.27]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.27, 8.0.27]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -4585,7 +4565,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

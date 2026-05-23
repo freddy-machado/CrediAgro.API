@@ -16,9 +16,12 @@ public class ReportesCreditoRepository : IReportesCreditoRepository
         await (from c in _context.ScrCreditos.AsNoTracking()
                join cl in _context.StbClientes.AsNoTracking() on c.nStbClienteID equals cl.nStbClienteID
                join p in _context.StbPersonas.AsNoTracking() on cl.nStbPersonaID equals p.nStbPersonaID
+               join bc in _context.StbBarrioComarcas.AsNoTracking() on p.nStbBarrioComarcaID equals bc.nStbComarcaID into bcGroup
+               from bc in bcGroup.DefaultIfEmpty()
                join rd in _context.StbRubroDetalles.AsNoTracking() on c.nStbRubroDetalleID equals rd.nStbRubroDetalleID
                join tc in _context.StbParidadCambiaria.AsNoTracking() on c.nStbParidadCambiariaID equals tc.nStbParidadCambiariaID
                where (!rubroId.HasValue || rd.nStbRubroID == rubroId)
+                     && (!comarcaId.HasValue || bc.nStbComarcaID == comarcaId)
                select new CarteraRptEntity
                {
                    SOLICITUDID = c.nScrSolicitudID,

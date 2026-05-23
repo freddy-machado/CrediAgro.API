@@ -12,5 +12,5 @@ public interface IClienteRepository : IRepository<StbCliente>
     Task<ClienteTab?> ClienteTabAsync(int id);
     Task<bool> VerificaClienteCreditoActivoPorPersonaIdAsync(int personaId);
     Task<bool> VerificaClienteHaTenidoCreditoAsync(int clienteId);
-    Task<bool> ActualizarCampoClienteTieneCreditoAsync(int clienteId, bool estado);
+    Task<bool> ActualizarEstadoTrabajaClienteAsync(int clienteId, bool estado);
 }

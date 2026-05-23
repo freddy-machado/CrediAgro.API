@@ -62,7 +62,7 @@ public class ClienteRepository : Repository<StbCliente>, IClienteRepository
         await _context.ScrCreditos.AsNoTracking()
             .AnyAsync(cr => cr.nStbClienteID == clienteId);
 
-    public async Task<bool> ActualizarCampoClienteTieneCreditoAsync(int clienteId, bool estado)
+    public async Task<bool> ActualizarEstadoTrabajaClienteAsync(int clienteId, bool estado)
     {
         var cliente = await _dbSet.FindAsync(clienteId);
         if (cliente == null) return false;
