@@ -1,7 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using CrediAgro.Infrastructure.Persistence.Models;
+﻿using CrediAgro.Infrastructure.Persistence.Models;
 using Microsoft.EntityFrameworkCore;
+
 
 namespace CrediAgro.Infrastructure.Persistence;
 

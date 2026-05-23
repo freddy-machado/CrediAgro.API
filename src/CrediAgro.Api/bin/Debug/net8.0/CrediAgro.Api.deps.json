@@ -865,6 +865,7 @@
       "CrediAgro.Infrastructure/1.0.0": {
         "dependencies": {
           "CrediAgro.Contracts": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "8.0.27",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.27"
         },
         "runtime": {

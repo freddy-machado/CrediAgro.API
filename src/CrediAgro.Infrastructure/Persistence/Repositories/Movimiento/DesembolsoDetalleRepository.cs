@@ -2,6 +2,7 @@ using CrediAgro.Infrastructure.Persistence.CustomEntities;
 using CrediAgro.Infrastructure.Persistence.Models;
 using Microsoft.EntityFrameworkCore;
 
+
 namespace CrediAgro.Infrastructure.Persistence.Repositories.Movimiento;
 
 public class DesembolsoDetalleRepository : Repository<ScrDesembolsoPago>, IDesembolsoDetalleRepository

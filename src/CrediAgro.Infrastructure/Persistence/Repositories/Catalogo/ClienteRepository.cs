@@ -3,6 +3,7 @@ using CrediAgro.Infrastructure.Persistence.CustomTabEntities;
 using CrediAgro.Infrastructure.Persistence.Models;
 using Microsoft.EntityFrameworkCore;
 
+
 namespace CrediAgro.Infrastructure.Persistence.Repositories.Catalogo;
 
 public class ClienteRepository : Repository<StbCliente>, IClienteRepository

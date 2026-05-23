@@ -1,7 +1,340 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\vwrubro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\vwrubro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\vwfaidore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\vwfaidore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\vwempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\vwempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\vwcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\vwcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\tc_junio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\tc_junio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\stbvalorcatalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\stbvalorcatalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\stbrubrodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\stbrubrodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\stbrubro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\stbrubro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\stbpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\stbpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\stbparidadcambiarium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\stbparidadcambiarium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\stbparametro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\stbparametro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\stbnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\stbnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\stbmunicipio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\stbmunicipio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\stbmonedum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\stbmonedum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\stbmodalidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\stbmodalidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\stblog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\stblog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\stbfrecuenciapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\stbfrecuenciapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\stbfiador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\stbfiador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\stberrorreslog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\stberrorreslog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\stbempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\stbempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\stbdepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\stbdepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\stbconsecutivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\stbconsecutivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\stbcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\stbcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\stbcategoriacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\stbcategoriacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\stbcatalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\stbcatalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\stbbarriocomarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\stbbarriocomarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\ssgserviciousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\ssgserviciousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\ssgrolaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\ssgrolaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\ssgrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\ssgrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\ssgoperacionauditorium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\ssgoperacionauditorium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\ssgmodulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\ssgmodulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\ssgcuentum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\ssgcuentum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\ssgcuentaseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\ssgcuentaseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\ssgcuentarol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\ssgcuentarol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\ssgaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\ssgaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\ssgaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\ssgaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\scrtablaproyeccionpagodinamica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\scrtablaproyeccionpagodinamica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\scrtablaproyeccionpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\scrtablaproyeccionpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\scrtablacontrolprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\scrtablacontrolprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\scrplazopagorubro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\scrplazopagorubro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\scrpagocuotum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\scrpagocuotum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\scrpagocuotadetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\scrpagocuotadetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\scrinteresrubro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\scrinteresrubro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\scrfrecuenciapagorubro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\scrfrecuenciapagorubro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\screxoneracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\screxoneracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\scrdocumentosolicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\scrdocumentosolicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\scrdocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\scrdocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\scrdesembolsopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\scrdesembolsopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\scrdesembolso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\scrdesembolso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\scrcredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\scrcredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\models\\aaaaaa_tc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\models\\aaaaaa_tc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\repositories\\seguridad\\accionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\repositories\\seguridad\\accionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\repositories\\movimiento\\tablaproyeccionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\repositories\\movimiento\\tablaproyeccionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\repositories\\movimiento\\pagocuotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\repositories\\movimiento\\pagocuotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\repositories\\movimiento\\documentosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\repositories\\movimiento\\documentosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\repositories\\movimiento\\documentosolicitudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\repositories\\movimiento\\documentosolicitudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\repositories\\movimiento\\desembolsorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\repositories\\movimiento\\desembolsorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\repositories\\movimiento\\desembolsodetallerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\repositories\\movimiento\\desembolsodetallerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\repositories\\movimiento\\creditorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\repositories\\movimiento\\creditorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\repositories\\catalogo\\valorcatalogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\repositories\\catalogo\\valorcatalogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\repositories\\catalogo\\tipocambiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\repositories\\catalogo\\tipocambiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\repositories\\catalogo\\rubrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\repositories\\catalogo\\rubrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\repositories\\catalogo\\rubrodetallerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\repositories\\catalogo\\rubrodetallerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\repositories\\catalogo\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\repositories\\catalogo\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\repositories\\catalogo\\municipiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\repositories\\catalogo\\municipiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\repositories\\catalogo\\monedarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\repositories\\catalogo\\monedarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\repositories\\catalogo\\fiadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\repositories\\catalogo\\fiadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\repositories\\catalogo\\empresarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\repositories\\catalogo\\empresarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\repositories\\catalogo\\departamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\repositories\\catalogo\\departamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\repositories\\catalogo\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\repositories\\catalogo\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\repositories\\catalogo\\catalogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\repositories\\catalogo\\catalogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\screditocmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\screditocmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\repositories\\seguridad\\serviciousuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\repositories\\seguridad\\serviciousuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\repositories\\seguridad\\rolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\repositories\\seguridad\\rolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\repositories\\seguridad\\rolaccionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\repositories\\seguridad\\rolaccionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\repositories\\seguridad\\modulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\repositories\\seguridad\\modulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\repositories\\seguridad\\cuentarolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\repositories\\seguridad\\cuentarolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\repositories\\seguridad\\cuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\repositories\\seguridad\\cuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\repositories\\seguridad\\aplicacionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\repositories\\seguridad\\aplicacionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\repositories\\reportes\\reportescreditorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\repositories\\reportes\\reportescreditorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\repositories\\reportes\\reportescatalogosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\repositories\\reportes\\reportescatalogosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|d:\\personal\\desarrollo\\crediagro\\crediagroweb\\crediagroweb\\api\\src\\crediagro.infrastructure\\persistence\\repositories\\catalogo\\ivalorcatalogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD71FE38-0374-F506-DB2F-24D4B198D240}|src\\CrediAgro.Infrastructure\\CrediAgro.Infrastructure.csproj|solutionrelative:src\\crediagro.infrastructure\\persistence\\repositories\\catalogo\\ivalorcatalogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +342,1087 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vwRubro.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\vwRubro.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\vwRubro.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\vwRubro.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\vwRubro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:55:16.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vwFaidore.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\vwFaidore.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\vwFaidore.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\vwFaidore.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\vwFaidore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:55:12.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vwEmpresa.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\vwEmpresa.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\vwEmpresa.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\vwEmpresa.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\vwEmpresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:55:03.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vwCliente.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\vwCliente.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\vwCliente.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\vwCliente.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\vwCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:54:58.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tc_junio.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\tc_junio.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\tc_junio.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\tc_junio.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\tc_junio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:54:49.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StbValorCatalogo.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbValorCatalogo.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbValorCatalogo.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbValorCatalogo.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbValorCatalogo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:54:44.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StbRubroDetalle.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbRubroDetalle.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbRubroDetalle.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbRubroDetalle.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbRubroDetalle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:54:35.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StbRubro.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbRubro.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbRubro.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbRubro.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbRubro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:54:31.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StbPersona.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbPersona.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbPersona.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbPersona.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbPersona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:54:26.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StbParidadCambiarium.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbParidadCambiarium.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbParidadCambiarium.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbParidadCambiarium.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbParidadCambiarium.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:54:22.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StbParametro.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbParametro.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbParametro.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbParametro.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbParametro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:54:18.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StbNegocio.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbNegocio.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbNegocio.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbNegocio.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:54:12.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StbMunicipio.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbMunicipio.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbMunicipio.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbMunicipio.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbMunicipio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:53:49.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StbMonedum.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbMonedum.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbMonedum.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbMonedum.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbMonedum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:53:29.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StbModalidad.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbModalidad.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbModalidad.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbModalidad.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbModalidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:53:20.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StbLog.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbLog.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbLog.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbLog.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:53:16.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StbFrecuenciaPago.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbFrecuenciaPago.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbFrecuenciaPago.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbFrecuenciaPago.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbFrecuenciaPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:53:08.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StbFiador.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbFiador.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbFiador.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbFiador.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbFiador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:53:04.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StbErrorresLog.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbErrorresLog.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbErrorresLog.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbErrorresLog.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbErrorresLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:52:59.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StbEmpresa.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbEmpresa.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbEmpresa.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbEmpresa.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbEmpresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:52:51.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StbDepartamento.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbDepartamento.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbDepartamento.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbDepartamento.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbDepartamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:52:47.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StbConsecutivo.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbConsecutivo.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbConsecutivo.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbConsecutivo.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbConsecutivo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:52:37.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StbCliente.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbCliente.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbCliente.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbCliente.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:52:29.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StbCategoriaCliente.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbCategoriaCliente.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbCategoriaCliente.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbCategoriaCliente.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbCategoriaCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:52:26.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StbCatalogo.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbCatalogo.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbCatalogo.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbCatalogo.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbCatalogo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:52:22.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StbBarrioComarca.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbBarrioComarca.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbBarrioComarca.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbBarrioComarca.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\StbBarrioComarca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:52:18.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SsgServicioUsuario.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgServicioUsuario.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgServicioUsuario.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgServicioUsuario.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgServicioUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:52:13.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SsgRolAccion.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgRolAccion.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgRolAccion.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgRolAccion.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgRolAccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:52:09.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SsgRol.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgRol.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgRol.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgRol.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgRol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:52:06.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SsgOperacionAuditorium.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgOperacionAuditorium.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgOperacionAuditorium.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgOperacionAuditorium.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgOperacionAuditorium.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:52:01.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SsgModulo.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgModulo.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgModulo.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgModulo.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgModulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:51:58.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SsgCuentum.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgCuentum.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgCuentum.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgCuentum.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgCuentum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:51:55.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SsgCuentaSeguridad.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgCuentaSeguridad.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgCuentaSeguridad.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgCuentaSeguridad.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgCuentaSeguridad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:51:50.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SsgCuentaRol.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgCuentaRol.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgCuentaRol.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgCuentaRol.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgCuentaRol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:51:45.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SsgAplicacion.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgAplicacion.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgAplicacion.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgAplicacion.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:51:37.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SsgAccion.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgAccion.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgAccion.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgAccion.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\SsgAccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:51:33.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ScrTablaproyeccionPagoDinamica.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrTablaproyeccionPagoDinamica.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrTablaproyeccionPagoDinamica.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrTablaproyeccionPagoDinamica.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrTablaproyeccionPagoDinamica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:51:29.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ScrTablaproyeccionPago.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrTablaproyeccionPago.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrTablaproyeccionPago.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrTablaproyeccionPago.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrTablaproyeccionPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:51:25.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ScrTablaControlPrestamo.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrTablaControlPrestamo.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrTablaControlPrestamo.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrTablaControlPrestamo.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrTablaControlPrestamo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:51:21.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ScrPlazoPagoRubro.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrPlazoPagoRubro.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrPlazoPagoRubro.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrPlazoPagoRubro.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrPlazoPagoRubro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:51:16.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ScrPagoCuotum.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrPagoCuotum.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrPagoCuotum.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrPagoCuotum.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrPagoCuotum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:51:09.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ScrPagoCuotaDetalle.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrPagoCuotaDetalle.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrPagoCuotaDetalle.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrPagoCuotaDetalle.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrPagoCuotaDetalle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:50:18.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ScrInteresRubro.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrInteresRubro.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrInteresRubro.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrInteresRubro.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrInteresRubro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:50:12.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ScrFrecuenciaPagoRubro.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrFrecuenciaPagoRubro.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrFrecuenciaPagoRubro.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrFrecuenciaPagoRubro.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrFrecuenciaPagoRubro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:50:08.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ScrExoneracion.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrExoneracion.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrExoneracion.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrExoneracion.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrExoneracion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:50:02.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ScrDocumentoSolicitud.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrDocumentoSolicitud.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrDocumentoSolicitud.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrDocumentoSolicitud.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrDocumentoSolicitud.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:49:58.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ScrDocumento.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrDocumento.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrDocumento.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrDocumento.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrDocumento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:49:51.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ScrDesembolsoPago.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrDesembolsoPago.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrDesembolsoPago.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrDesembolsoPago.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrDesembolsoPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:49:46.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ScrDesembolso.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrDesembolso.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrDesembolso.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrDesembolso.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrDesembolso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:49:39.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ScrCredito.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrCredito.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrCredito.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrCredito.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\ScrCredito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:49:03.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Aaaaaa_TC.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\Aaaaaa_TC.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\Aaaaaa_TC.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Models\\Aaaaaa_TC.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Models\\Aaaaaa_TC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:48:53.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DocumentoSolicitudRepository.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Movimiento\\DocumentoSolicitudRepository.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Movimiento\\DocumentoSolicitudRepository.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Movimiento\\DocumentoSolicitudRepository.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Movimiento\\DocumentoSolicitudRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:36:57.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DocumentosRepository.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Movimiento\\DocumentosRepository.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Movimiento\\DocumentosRepository.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Movimiento\\DocumentosRepository.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Movimiento\\DocumentosRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:37:05.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "PagoCuotaRepository.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Movimiento\\PagoCuotaRepository.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Movimiento\\PagoCuotaRepository.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Movimiento\\PagoCuotaRepository.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Movimiento\\PagoCuotaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:37:31.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "TablaProyeccionRepository.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Movimiento\\TablaProyeccionRepository.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Movimiento\\TablaProyeccionRepository.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Movimiento\\TablaProyeccionRepository.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Movimiento\\TablaProyeccionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:37:41.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AccionRepository.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Seguridad\\AccionRepository.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Seguridad\\AccionRepository.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Seguridad\\AccionRepository.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Seguridad\\AccionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:38:33.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DesembolsoRepository.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Movimiento\\DesembolsoRepository.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Movimiento\\DesembolsoRepository.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Movimiento\\DesembolsoRepository.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Movimiento\\DesembolsoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:36:49.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DesembolsoDetalleRepository.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Movimiento\\DesembolsoDetalleRepository.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Movimiento\\DesembolsoDetalleRepository.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Movimiento\\DesembolsoDetalleRepository.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Movimiento\\DesembolsoDetalleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:36:35.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CreditoRepository.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Movimiento\\CreditoRepository.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Movimiento\\CreditoRepository.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Movimiento\\CreditoRepository.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Movimiento\\CreditoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:36:23.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ValorCatalogoRepository.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\ValorCatalogoRepository.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\ValorCatalogoRepository.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\ValorCatalogoRepository.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\ValorCatalogoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:47:20.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "TipoCambioRepository.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\TipoCambioRepository.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\TipoCambioRepository.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\TipoCambioRepository.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\TipoCambioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:47:15.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "RubroRepository.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\RubroRepository.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\RubroRepository.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\RubroRepository.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\RubroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:47:11.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "RubroDetalleRepository.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\RubroDetalleRepository.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\RubroDetalleRepository.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\RubroDetalleRepository.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\RubroDetalleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:47:04.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "PersonaRepository.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\PersonaRepository.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\PersonaRepository.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\PersonaRepository.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\PersonaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:46:59.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "MunicipioRepository.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\MunicipioRepository.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\MunicipioRepository.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\MunicipioRepository.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\MunicipioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:46:54.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "MonedaRepository.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\MonedaRepository.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\MonedaRepository.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\MonedaRepository.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\MonedaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:46:44.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "DepartamentoRepository.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\DepartamentoRepository.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\DepartamentoRepository.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\DepartamentoRepository.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\DepartamentoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:46:21.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "SCreditoCmDbContext.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\SCreditoCmDbContext.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\SCreditoCmDbContext.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\SCreditoCmDbContext.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\SCreditoCmDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:45:49.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Repository.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:37:56.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "CatalogoRepository.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\CatalogoRepository.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\CatalogoRepository.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\CatalogoRepository.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\CatalogoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T02:17:03.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "EmpresaRepository.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\EmpresaRepository.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\EmpresaRepository.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\EmpresaRepository.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\EmpresaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:34:01.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "FiadorRepository.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\FiadorRepository.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\FiadorRepository.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\FiadorRepository.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\FiadorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:31:24.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ServicioUsuarioRepository.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Seguridad\\ServicioUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Seguridad\\ServicioUsuarioRepository.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Seguridad\\ServicioUsuarioRepository.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Seguridad\\ServicioUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:39:12.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "RolRepository.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Seguridad\\RolRepository.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Seguridad\\RolRepository.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Seguridad\\RolRepository.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Seguridad\\RolRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:39:07.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\ClienteRepository.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\ClienteRepository.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\ClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T02:17:23.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "RolAccionRepository.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Seguridad\\RolAccionRepository.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Seguridad\\RolAccionRepository.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Seguridad\\RolAccionRepository.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Seguridad\\RolAccionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:39:03.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ModuloRepository.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Seguridad\\ModuloRepository.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Seguridad\\ModuloRepository.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Seguridad\\ModuloRepository.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Seguridad\\ModuloRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:38:58.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "CuentaRolRepository.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Seguridad\\CuentaRolRepository.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Seguridad\\CuentaRolRepository.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Seguridad\\CuentaRolRepository.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Seguridad\\CuentaRolRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:38:45.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "CuentaRepository.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Seguridad\\CuentaRepository.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Seguridad\\CuentaRepository.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Seguridad\\CuentaRepository.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Seguridad\\CuentaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:38:41.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "AplicacionRepository.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Seguridad\\AplicacionRepository.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Seguridad\\AplicacionRepository.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Seguridad\\AplicacionRepository.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Seguridad\\AplicacionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:38:38.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ReportesCreditoRepository.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Reportes\\ReportesCreditoRepository.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Reportes\\ReportesCreditoRepository.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Reportes\\ReportesCreditoRepository.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Reportes\\ReportesCreditoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:38:24.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ReportesCatalogosRepository.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Reportes\\ReportesCatalogosRepository.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Reportes\\ReportesCatalogosRepository.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Reportes\\ReportesCatalogosRepository.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Reportes\\ReportesCatalogosRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:38:17.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "IValorCatalogoRepository.cs",
+              "DocumentMoniker": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\IValorCatalogoRepository.cs",
+              "RelativeDocumentMoniker": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\IValorCatalogoRepository.cs",
+              "ToolTip": "D:\\PERSONAL\\Desarrollo\\CREDIAGRO\\CREDIAGROWEB\\CREDIAGROWEB\\API\\src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\IValorCatalogoRepository.cs",
+              "RelativeToolTip": "src\\CrediAgro.Infrastructure\\Persistence\\Repositories\\Catalogo\\IValorCatalogoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:30:45.637Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
